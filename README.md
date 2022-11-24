@@ -42,7 +42,6 @@ Ao final do curso, o discente será capaz de:
   - Apresentação da disciplina e informações gerais
   - Introdução ao Aprendizado de Máquina
   - [Google Slides](https://docs.google.com/presentation/d/16C1Z6DFqwPsrDZVtdyU32Cab6S6rhMCgkdVaLhhIo7I/edit?usp=sharing)
-  - [Vídeo da aula]()
 
 - Semana 02 - 02/12
   - Análise de Dados
@@ -50,7 +49,6 @@ Ao final do curso, o discente será capaz de:
   - Transformação de dados
   - [Google Slides]()
   - [Notebooks]()
-  - [Vídeo da aula]()
 
 - Semana 03 - 09/12
   - Classificação
@@ -59,13 +57,11 @@ Ao final do curso, o discente será capaz de:
   - Validação de Classificação
   - [Google Slides]()
   - [Notebook]()
-  - [Vídeo da aula]()
 
 - Semana 04 - 16/12
   - Redes Neurais Artificiais
   - [Google Slides]()
   - [Notebook]()
-  - [Vídeo da aula]()
 
 - Semana 05 - 23/12
   - Análise de Agrupamentos
@@ -75,7 +71,6 @@ Ao final do curso, o discente será capaz de:
   - Validação de agrupamentos
   - [Google Slides]()
   - [Notebook]()
-  - [Vídeo da aula]()
   
 
 - Semana 06 - 13/01
@@ -88,7 +83,6 @@ Ao final do curso, o discente será capaz de:
 
 - Semana 08 - 27/01
   - Apresentação de projetos finais
-  - [Vídeo da aula]()
 
 ## Projeto
 ### Objetivo geral

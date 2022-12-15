@@ -47,21 +47,22 @@ Ao final do curso, o discente será capaz de:
   - Análise de Dados
   - Tratamento dos Dados
   - Transformação de dados
-  - [Google Slides]()
-  - [Notebooks]()
+  - [Google Slides](https://docs.google.com/presentation/d/1Gl_Z2UhhkaAAdIL0T69-ECuosZasfZQH2Qrtj4SkW_I/edit?usp=sharing)
+  - [Notebooks](./02_Analise_e_Visualizacao_de_dados/exemplos/)
 
 - Semana 03 - 09/12
   - Classificação
   - Árvores de Decisão
   - Vizinhos mais próximos
   - Validação de Classificação
-  - [Google Slides]()
-  - [Notebook]()
+  - [Google Slides](https://docs.google.com/presentation/d/1ZTzyNp8A41RirlANvjJXRCE4D-a7WV9R_oloRF-zLtk/edit?usp=sharing)
+  - [Notebook](./03_AM_Supervisionado_Parte_I/slides/)
+  - [Vídeo da Aula](https://drive.google.com/file/d/1ImtJGo8py7Lt16S4HoGrK8w5JNp007Qi/view?usp=sharing)
 
 - Semana 04 - 16/12
   - Redes Neurais Artificiais
-  - [Google Slides]()
-  - [Notebook]()
+  - [Google Slides](https://docs.google.com/presentation/d/1ZTzyNp8A41RirlANvjJXRCE4D-a7WV9R_oloRF-zLtk/edit?usp=sharing)
+  - [Notebook](./04_AM_Supervisionado_Parte_II/slides/)
 
 - Semana 05 - 23/12
   - Análise de Agrupamentos

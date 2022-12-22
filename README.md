@@ -38,19 +38,19 @@ Ao final do curso, o discente será capaz de:
 
 ### Cronograma
 
-- [ ] Semana 01 - 25/11
+- [ x ] Semana 01 - 25/11
   - Apresentação da disciplina e informações gerais
   - Introdução ao Aprendizado de Máquina
   - [Google Slides](https://docs.google.com/presentation/d/16C1Z6DFqwPsrDZVtdyU32Cab6S6rhMCgkdVaLhhIo7I/edit?usp=sharing)
 
-- Semana 02 - 02/12
+- [ x ] Semana 02 - 02/12
   - Análise de Dados
   - Tratamento dos Dados
   - Transformação de dados
   - [Google Slides](https://docs.google.com/presentation/d/1Gl_Z2UhhkaAAdIL0T69-ECuosZasfZQH2Qrtj4SkW_I/edit?usp=sharing)
   - [Notebooks](./02_Analise_e_Visualizacao_de_dados/exemplos/)
 
-- Semana 03 - 09/12
+- [ x ] Semana 03 - 09/12
   - Classificação
   - Árvores de Decisão
   - Vizinhos mais próximos
@@ -59,7 +59,7 @@ Ao final do curso, o discente será capaz de:
   - [Notebook](./03_AM_Supervisionado_Parte_I/exemplos/IMD0188_am_c03_01_distancias_e_knn.ipynb)
   - [Vídeo da Aula](https://drive.google.com/file/d/1ImtJGo8py7Lt16S4HoGrK8w5JNp007Qi/view?usp=sharing)
 
-- Semana 04 - 16/12
+- [ x ] Semana 04 - 16/12
   - Redes Neurais Artificiais
   - [Google Slides](https://docs.google.com/presentation/d/1ZTzyNp8A41RirlANvjJXRCE4D-a7WV9R_oloRF-zLtk/edit?usp=sharing)
   - [Notebook](./04_AM_Supervisionado_Parte_II/exemplos/imd0188_am_c04_01_mlp.ipynb)
@@ -79,7 +79,7 @@ Ao final do curso, o discente será capaz de:
   - Acompanhamento de Projetos
   - [Google Slides]()
 
-- Semana 07 - 20/01  - 
+- Semana 07 - 20/01
   - Acompanhamento de Projetos
 
 - Semana 08 - 27/01

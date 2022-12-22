@@ -56,13 +56,13 @@ Ao final do curso, o discente será capaz de:
   - Vizinhos mais próximos
   - Validação de Classificação
   - [Google Slides](https://docs.google.com/presentation/d/1ZTzyNp8A41RirlANvjJXRCE4D-a7WV9R_oloRF-zLtk/edit?usp=sharing)
-  - [Notebook](./03_AM_Supervisionado_Parte_I/slides/)
+  - [Notebook](./03_AM_Supervisionado_Parte_I/exemplos/IMD0188_am_c03_01_distancias_e_knn.ipynb)
   - [Vídeo da Aula](https://drive.google.com/file/d/1ImtJGo8py7Lt16S4HoGrK8w5JNp007Qi/view?usp=sharing)
 
 - Semana 04 - 16/12
   - Redes Neurais Artificiais
   - [Google Slides](https://docs.google.com/presentation/d/1ZTzyNp8A41RirlANvjJXRCE4D-a7WV9R_oloRF-zLtk/edit?usp=sharing)
-  - [Notebook](./04_AM_Supervisionado_Parte_II/slides/)
+  - [Notebook](./04_AM_Supervisionado_Parte_II/exemplos/imd0188_am_c04_01_mlp.ipynb)
 
 - Semana 05 - 23/12
   - Análise de Agrupamentos
@@ -70,8 +70,8 @@ Ao final do curso, o discente será capaz de:
   - Dendograma e algoritmos hierárquicos.
   - k-means
   - Validação de agrupamentos
-  - [Google Slides]()
-  - [Notebook]()
+  - [Google Slides](https://docs.google.com/presentation/d/1QqHKOXK1eXnBgLjsvKgya0XK1Kde3McGFB80aOj9-4U/edit?usp=sharing)
+  - [Notebook](./05_AM_Nao_supervisionado/exemplos/imd0188_am_c05_01.ipynb)
   
 
 - Semana 06 - 13/01
